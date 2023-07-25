@@ -1,0 +1,24 @@
+.nombrepj{
+    font-style: italic; 
+}
+
+.imagenn{
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+/* .divisor{ */
+/*     
+    color: rgb(46, 72, 72);
+    border: 10px solid black;
+    margin: 10px solid red;
+    
+     */
+/* }  */
+/* .divisor .footer{
+    background-color: aquamarine;
+    padding: 10px;
+} */
+/* .divonclick{
+    background-color: blueviolet;
+    width:2em ;
+} */
